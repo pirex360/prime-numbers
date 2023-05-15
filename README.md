@@ -20,7 +20,9 @@ Run the PHP script using the command line: `php index.php`
 To run the unit tests for the `Number` class and the `PrimeTrait` trait, use PHPUnit: `./vendor/bin/phpunit`
 
 This will runs **5** tests with **18** assertions.
+
 ![Prime Demonstration](/img/tests.png)
 
 ## Demonstration
+
 ![Prime Demonstration](/img/prime.gif)
